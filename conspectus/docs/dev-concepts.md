@@ -1,9 +1,11 @@
 ---
 slug: /dev
 title: Development concepts 🧱
-sidebar_position: 2 
+sidebar_position: 2
 pagination_next: null
 ---
+
+<!-- TODO: the page has become overloaded - better be separated in different topics: CS, Databases, Languages Types -->
 
 # Things to know about development
 
